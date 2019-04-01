@@ -1,3 +1,6 @@
+https://epic-spinners.epicmax.co/?ref=madewithvuejs.com#/
+
+
 # epic-spinners
 
 Easy to use css spinners collection with Vue.js integration. Developed by [Epicmax](https://epicmax.co/).
